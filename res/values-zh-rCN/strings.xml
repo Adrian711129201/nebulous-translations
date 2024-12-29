@@ -52,13 +52,13 @@
 
 
     <string name="Lobby_Name">"大厅名称"</string>
-    <string name="Not_found_">"找不到。"</string>
+    <string name="Not_found_">"无结果"</string>
 
     <string name="Hidden">"隐藏"</string>
 
 
     <string name="SERVER">"服务器"</string>
-    <string name="Joining_game_in_">"进入游戏剩余"</string>
+    <string name="Joining_game_in_">"正在进入游戏中..."</string>
     <string name="Game_Full">"玩家已满"</string>
     <string name="US_East">"美国东部"</string>
     <string name="US_West">"美国西部"</string>
@@ -279,7 +279,7 @@
     <string name="ELDER">"长老"</string>
 
 
-    <string name="Not_in_a_clan_">"你不在一个联盟中。"</string>
+    <string name="Not_in_a_clan_">"不在联盟中。"</string>
 
 
     <string name="CLAN">"联盟"</string>
@@ -289,7 +289,7 @@
     <string name="Show_Clan_Names">"显示联盟名称"</string>
     <string name="Show_Levels">"显示等级"</string>
     <string name="SET_MOTD">"设定简介"</string>
-    <string name="No_such_user_found_">"没有这位玩家。"</string>
+    <string name="No_such_user_found_">"没有此玩家。"</string>
     <string name="No_open_public_clans_exist_">"没有公开的联盟存在。"</string>
     <string name="You_aren_t_invited_to_that_clan_">"你未被邀请到这个联盟。"</string>
     <string name="No_such_clan_exists_">"没有这个联盟存在。"</string>
