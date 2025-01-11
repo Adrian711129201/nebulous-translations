@@ -297,7 +297,7 @@
     <string name="Other_user_is_not_a_member_of_your_clan_">"其他玩家不是你联盟的一位成员。"</string>
     <string name="_You_can_t_be_your_own_friend_">"你不能将自己加为好友。"</string>
     <string name="A_clan_with_that_name_already_exists_">"该名称已被使用。"</string>
-    <string name="Duration_">"时间："</string>
+    <string name="Duration_">"时长："</string>
 
     <string name="FFA_Time_Domination">"自由模式（有时限）霸主"</string>
     <string name="Teams_Time_Domination">"团队模式（有时限）霸主"</string>
