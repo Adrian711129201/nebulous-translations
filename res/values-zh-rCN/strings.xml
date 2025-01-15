@@ -81,9 +81,9 @@
     <string name="START">"开始"</string>
     <string name="CREATE">"创建"</string>
     <string name="CUSTOM_GAMES">"自定义游戏"</string>
-    <string name="CHAT">"聊天室"</string>
+    <string name="CHAT">"聊天"</string>
     <string name="CUSTOM_SETUP">"自定义设置"</string>
-    <string name="CHAT_SETUP">"聊天室设置"</string>
+    <string name="CHAT_SETUP">"聊天设置"</string>
 
 
     <string name="ACCOUNT">"帐户"</string>
@@ -134,7 +134,7 @@
     <string name="Global_" formatted="false">"全球％"</string>
     <string name="FRIEND_CHAT">"好友聊天"</string>
     <string name="LOBBY_NAME">"大厅名称"</string>
-    <string name="NULL">"无效的"</string>
+    <string name="NULL">"无效"</string>
 
 
     <string name="ALL">"全部"</string>
